@@ -199,10 +199,6 @@ The full set of 30 questions lives in [`sql/03_business_questions.sql`](sql/03_b
 
 ## Author
 
-**[Your Name]**
+Manideep TUmmuri
 B.Tech Mining Engineering, IIT (ISM) Dhanbad
-[LinkedIn] · [GitHub] · [Email]
 
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details. The dataset is a publicly available sample dataset used for educational/portfolio purposes.
